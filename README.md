@@ -1,5 +1,9 @@
 ## Project Configuration
 
+
+https://github.com/Amitmasram/8BW_Geo_Locator_App/assets/105006236/a97cf0f2-c4f4-4996-9d2b-7f5ff5fb581a
+
+
 ### 1. Add Google Maps API Key in `android/local.properties`
 
 To avoid errors in the `AndroidManifest.xml` file, you need to add your Google Maps API key to the `android/local.properties` file. Follow these steps:
